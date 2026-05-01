@@ -33,4 +33,6 @@ Inherited from the VRChat package template:
 
 ## License
 
+Most of the code here is under WTFPL.
+
 Code in `Packages/space.hiina.vrchat-scene-probe/Shader/Codec.hlsl` and the screen-rect emission in `SceneProbe.hlsl` are adapted from [ShaderMotion](https://github.com/lox9973/ShaderMotion) (MIT, © 2020-2021 lox9973).
