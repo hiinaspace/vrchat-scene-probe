@@ -1,0 +1,15 @@
+{
+  "name": "space.hiina.vrchat-scene-probe",
+  "displayName": "VRChat Scene Probe",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Exposes VRChat scene info (camera pose, light-probe SH) as encoded pixels on the desktop window for AR-over-VR overlays. Drop the SceneProbe prefab onto your avatar.",
+  "vrchatVersion": "2022.1.1",
+  "vpmDependencies": {
+    "nadena.dev.modular-avatar": ">=1.10.0"
+  },
+  "author": {
+    "name": "Hiina",
+    "email": "hiina@hiina.space"
+  }
+}
